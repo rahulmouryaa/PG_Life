@@ -1,0 +1,1 @@
+PG Life is a full-stack web application developed during my Internshala Full Stack Web Development Internship Training. It is fully responsive and works seamlessly on all devices. The app allows users to explore and find PG accommodations, integrating frontend and backend technologies for a smooth user experience. 🚀
